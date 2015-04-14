@@ -1,0 +1,134 @@
+# mtl file of Cube 2 level
+
+newmtl slot1
+map_Kd media\base\base1.png
+
+newmtl slot191
+map_Kd media\ss13\grey.png
+
+newmtl slot193
+map_Kd media\ss13\blue.png
+
+newmtl slot196
+map_Kd media\ss13\chancolor.png
+
+newmtl slot197
+map_Kd media\vaporwave\Asphalt.png
+
+newmtl slot199
+map_Kd media\vaporwave\CeilingAccoustic.png
+
+newmtl slot200
+map_Kd media\vaporwave\Greymetal.png
+
+newmtl slot201
+map_Kd media\vaporwave\RedTile.png
+
+newmtl slot202
+map_Kd media\vaporwave\roof.png
+
+newmtl slot207
+map_Kd media\vaporwave\whitewall.png
+
+newmtl slot208
+map_Kd media\march21\blueish.png
+
+newmtl slot209
+map_Kd media\march21\blueishmess.png
+
+newmtl slot210
+map_Kd media\march21\brightgreen.png
+
+newmtl slot213
+map_Kd media\march21\darkwood.png
+
+newmtl slot214
+map_Kd media\march21\greyishplaster.png
+
+newmtl slot215
+map_Kd media\march21\hotpink.png
+
+newmtl slot220
+map_Kd media\march21\metaldarkish.png
+
+newmtl slot221
+map_Kd media\march21\neonpurple.png
+
+newmtl slot222
+map_Kd media\march21\purpleplaster.png
+
+newmtl slot223
+map_Kd media\march21\redcarpet.png
+
+newmtl slot225
+map_Kd media\march21\turqplaster.png
+
+newmtl slot226
+map_Kd media\march21\whitemetal.png
+
+newmtl slot227
+map_Kd media\march21\wood.png
+
+newmtl slot231
+map_Kd media\vaporwave\sand.png
+
+newmtl slot232
+map_Kd media\march21\wood.png
+
+newmtl slot233
+map_Kd media\march21\wood.png
+
+newmtl slot234
+map_Kd media\march21\wood.png
+
+newmtl slot235
+map_Kd media\march21\wood.png
+
+newmtl slot236
+map_Kd media\march21\wood.png
+
+newmtl slot237
+map_Kd media\march21\darkwood.png
+
+newmtl slot238
+map_Kd media\march21\cobblestonetiles.png
+
+newmtl slot241
+map_Kd media\vaporwave\Greymetal.png
+
+newmtl slot242
+map_Kd media\vaporwave\telecom.png
+
+newmtl slot243
+map_Kd media\vaporwave\telecom.png
+
+newmtl slot244
+map_Kd media\march21\wood.png
+
+newmtl slot245
+map_Kd media\march21\darkwood.png
+
+newmtl slot246
+map_Kd media\vaporwave\telecom.png
+
+newmtl slot248
+map_Kd media\march21\sign1.png
+
+newmtl slot249
+map_Kd media\vaporwave\BlueOutdoorMetal.png
+
+newmtl slot250
+map_Kd media\march21\whitemetal.png
+
+newmtl slot251
+map_Kd media\march21\corrugatedgreymetal.png
+
+newmtl slot252
+map_Kd media\march21\corrugatedgreymetal.png
+
+newmtl slot253
+map_Kd media\march21\sign3.png
+
+newmtl slot254
+map_Kd media\march21\sign2.png
+
